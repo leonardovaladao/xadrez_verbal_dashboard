@@ -314,6 +314,7 @@ pais_par,num_relac_paises,pais1,pais2
 "('França', 'Palestina')",3,França,Palestina
 "('França', 'Polônia')",3,França,Polônia
 "('França', 'Portugal')",1,França,Portugal
+"('França', 'República do Congo')",1,França,República do Congo
 "('França', 'Rússia')",5,França,Rússia
 "('França', 'Suíça')",1,França,Suíça
 "('França', 'Turquia')",3,França,Turquia
@@ -404,6 +405,7 @@ pais_par,num_relac_paises,pais1,pais2
 "('Marrocos', 'Senegal')",1,Marrocos,Senegal
 "('Maurício', 'Nepal')",2,Maurício,Nepal
 "('México', 'Noruega')",1,México,Noruega
+"('México', 'República do Congo')",1,México,República do Congo
 "('México', 'Turquia')",1,México,Turquia
 "('México', 'Uruguai')",1,México,Uruguai
 "('México', 'Vanuatu')",1,México,Vanuatu
