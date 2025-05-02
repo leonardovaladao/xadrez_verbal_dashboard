@@ -7,7 +7,8 @@ pais_par,num_relac_paises,pais1,pais2
 "('Afeganistão', 'Suíça')",1,Afeganistão,Suíça
 "('Afeganistão', 'Venezuela')",1,Afeganistão,Venezuela
 "('Albânia', 'Bulgária')",1,Albânia,Bulgária
-"('Albânia', 'Grécia')",1,Albânia,Grécia
+"('Albânia', 'Grécia')",2,Albânia,Grécia
+"('Albânia', 'Irã')",1,Albânia,Irã
 "('Albânia', 'Itália')",2,Albânia,Itália
 "('Albânia', 'Polônia')",1,Albânia,Polônia
 "('Albânia', 'Suíça')",1,Albânia,Suíça
@@ -17,6 +18,7 @@ pais_par,num_relac_paises,pais1,pais2
 "('Alemanha', 'Dinamarca')",1,Alemanha,Dinamarca
 "('Alemanha', 'Espanha')",1,Alemanha,Espanha
 "('Alemanha', 'Estados Unidos')",6,Alemanha,Estados Unidos
+"('Alemanha', 'Finlândia')",1,Alemanha,Finlândia
 "('Alemanha', 'França')",6,Alemanha,França
 "('Alemanha', 'Israel')",3,Alemanha,Israel
 "('Alemanha', 'Itália')",3,Alemanha,Itália
@@ -24,10 +26,13 @@ pais_par,num_relac_paises,pais1,pais2
 "('Alemanha', 'Noruega')",2,Alemanha,Noruega
 "('Alemanha', 'Polônia')",1,Alemanha,Polônia
 "('Alemanha', 'Rússia')",6,Alemanha,Rússia
-"('Alemanha', 'Suécia')",1,Alemanha,Suécia
+"('Alemanha', 'Suécia')",2,Alemanha,Suécia
 "('Alemanha', 'Suíça')",1,Alemanha,Suíça
 "('Alemanha', 'Síria')",1,Alemanha,Síria
-"('Alemanha', 'Índia')",1,Alemanha,Índia
+"('Alemanha', 'Tanzânia')",1,Alemanha,Tanzânia
+"('Alemanha', 'Ucrânia')",2,Alemanha,Ucrânia
+"('Alemanha', 'Áustria')",2,Alemanha,Áustria
+"('Alemanha', 'Índia')",3,Alemanha,Índia
 "('Angola', 'Brasil')",1,Angola,Brasil
 "('Angola', 'China')",1,Angola,China
 "('Angola', 'Estados Unidos')",1,Angola,Estados Unidos
@@ -48,39 +53,56 @@ pais_par,num_relac_paises,pais1,pais2
 "('Argentina', 'Marrocos')",1,Argentina,Marrocos
 "('Argentina', 'Maurício')",1,Argentina,Maurício
 "('Argentina', 'México')",3,Argentina,México
+"('Argentina', 'Nicarágua')",2,Argentina,Nicarágua
 "('Argentina', 'Panamá')",1,Argentina,Panamá
 "('Argentina', 'Paraguai')",6,Argentina,Paraguai
-"('Argentina', 'Peru')",4,Argentina,Peru
+"('Argentina', 'Peru')",5,Argentina,Peru
 "('Argentina', 'Rússia')",1,Argentina,Rússia
 "('Argentina', 'Turquia')",1,Argentina,Turquia
 "('Argentina', 'Uruguai')",2,Argentina,Uruguai
 "('Argentina', 'Venezuela')",6,Argentina,Venezuela
 "('Argentina', 'África do Sul')",1,Argentina,África do Sul
+"('Argélia', 'Colômbia')",1,Argélia,Colômbia
+"('Argélia', 'Turquia')",1,Argélia,Turquia
+"('Armênia', 'Azerbaijão')",3,Armênia,Azerbaijão
+"('Armênia', 'Estados Unidos')",3,Armênia,Estados Unidos
+"('Armênia', 'França')",2,Armênia,França
+"('Armênia', 'Irã')",2,Armênia,Irã
+"('Armênia', 'Israel')",1,Armênia,Israel
+"('Armênia', 'Palestina')",5,Armênia,Palestina
+"('Armênia', 'Rússia')",2,Armênia,Rússia
+"('Armênia', 'Síria')",1,Armênia,Síria
+"('Armênia', 'Turquia')",4,Armênia,Turquia
+"('Armênia', 'Ucrânia')",1,Armênia,Ucrânia
+"('Armênia', 'Índia')",1,Armênia,Índia
 "('Austrália', 'Brasil')",1,Austrália,Brasil
 "('Austrália', 'Brunei')",1,Austrália,Brunei
-"('Austrália', 'Canadá')",3,Austrália,Canadá
+"('Austrália', 'Canadá')",4,Austrália,Canadá
 "('Austrália', 'Chile')",3,Austrália,Chile
 "('Austrália', 'China')",3,Austrália,China
-"('Austrália', 'Estados Unidos')",2,Austrália,Estados Unidos
+"('Austrália', 'Estados Unidos')",4,Austrália,Estados Unidos
 "('Austrália', 'França')",1,Austrália,França
 "('Austrália', 'Indonésia')",1,Austrália,Indonésia
 "('Austrália', 'Irlanda')",1,Austrália,Irlanda
 "('Austrália', 'Itália')",1,Austrália,Itália
-"('Austrália', 'Japão')",3,Austrália,Japão
-"('Austrália', 'México')",1,Austrália,México
+"('Austrália', 'Japão')",5,Austrália,Japão
+"('Austrália', 'México')",2,Austrália,México
 "('Austrália', 'Nauru')",1,Austrália,Nauru
 "('Austrália', 'Rússia')",2,Austrália,Rússia
+"('Austrália', 'Timor Leste')",1,Austrália,Timor Leste
 "('Austrália', 'Turquia')",3,Austrália,Turquia
+"('Austrália', 'Ucrânia')",1,Austrália,Ucrânia
+"('Austrália', 'Índia')",1,Austrália,Índia
 "('Azerbaijão', 'Estados Unidos')",2,Azerbaijão,Estados Unidos
-"('Azerbaijão', 'Irã')",2,Azerbaijão,Irã
+"('Azerbaijão', 'Irã')",3,Azerbaijão,Irã
 "('Azerbaijão', 'Israel')",3,Azerbaijão,Israel
 "('Bangladesh', 'China')",2,Bangladesh,China
-"('Bangladesh', 'Emirados Árabes Unidos')",3,Bangladesh,Emirados Árabes Unidos
+"('Bangladesh', 'Emirados Árabes Unidos')",4,Bangladesh,Emirados Árabes Unidos
 "('Bangladesh', 'Maldivas')",2,Bangladesh,Maldivas
 "('Bangladesh', 'Nepal')",1,Bangladesh,Nepal
 "('Bangladesh', 'Paquistão')",3,Bangladesh,Paquistão
 "('Bangladesh', 'Uruguai')",1,Bangladesh,Uruguai
-"('Bangladesh', 'Índia')",7,Bangladesh,Índia
+"('Bangladesh', 'Índia')",8,Bangladesh,Índia
 "('Barbados', 'Brasil')",1,Barbados,Brasil
 "('Barbados', 'Estados Unidos')",1,Barbados,Estados Unidos
 "('Barbados', 'México')",1,Barbados,México
@@ -90,16 +112,18 @@ pais_par,num_relac_paises,pais1,pais2
 "('Belize', 'Dominica')",1,Belize,Dominica
 "('Belize', 'Guatemala')",1,Belize,Guatemala
 "('Belize', 'Honduras')",2,Belize,Honduras
+"('Belize', 'Nicarágua')",1,Belize,Nicarágua
 "('Belize', 'Samoa')",1,Belize,Samoa
 "('Bolívia', 'Brasil')",13,Bolívia,Brasil
 "('Bolívia', 'Chile')",4,Bolívia,Chile
 "('Bolívia', 'China')",1,Bolívia,China
-"('Bolívia', 'Colômbia')",1,Bolívia,Colômbia
+"('Bolívia', 'Colômbia')",2,Bolívia,Colômbia
 "('Bolívia', 'Cuba')",1,Bolívia,Cuba
 "('Bolívia', 'Egito')",1,Bolívia,Egito
 "('Bolívia', 'Indonésia')",2,Bolívia,Indonésia
 "('Bolívia', 'Malásia')",1,Bolívia,Malásia
 "('Bolívia', 'México')",2,Bolívia,México
+"('Bolívia', 'Nicarágua')",2,Bolívia,Nicarágua
 "('Bolívia', 'Paraguai')",5,Bolívia,Paraguai
 "('Bolívia', 'Peru')",4,Bolívia,Peru
 "('Bolívia', 'Turquia')",2,Bolívia,Turquia
@@ -110,7 +134,8 @@ pais_par,num_relac_paises,pais1,pais2
 "('Brasil', 'Canadá')",1,Brasil,Canadá
 "('Brasil', 'Chile')",3,Brasil,Chile
 "('Brasil', 'China')",21,Brasil,China
-"('Brasil', 'Colômbia')",17,Brasil,Colômbia
+"('Brasil', 'Colômbia')",23,Brasil,Colômbia
+"('Brasil', 'Coréia do Sul')",3,Brasil,Coréia do Sul
 "('Brasil', 'Costa Rica')",1,Brasil,Costa Rica
 "('Brasil', 'Egito')",1,Brasil,Egito
 "('Brasil', 'Equador')",1,Brasil,Equador
@@ -121,10 +146,15 @@ pais_par,num_relac_paises,pais1,pais2
 "('Brasil', 'Guatemala')",1,Brasil,Guatemala
 "('Brasil', 'Guiana')",1,Brasil,Guiana
 "('Brasil', 'Indonésia')",3,Brasil,Indonésia
+"('Brasil', 'Inglaterra')",1,Brasil,Inglaterra
 "('Brasil', 'Israel')",6,Brasil,Israel
 "('Brasil', 'Itália')",2,Brasil,Itália
 "('Brasil', 'Japão')",6,Brasil,Japão
+"('Brasil', 'Libéria')",1,Brasil,Libéria
+"('Brasil', 'Líbano')",2,Brasil,Líbano
 "('Brasil', 'México')",12,Brasil,México
+"('Brasil', 'Nicarágua')",5,Brasil,Nicarágua
+"('Brasil', 'Nigéria')",3,Brasil,Nigéria
 "('Brasil', 'Noruega')",1,Brasil,Noruega
 "('Brasil', 'Nova Zelândia')",1,Brasil,Nova Zelândia
 "('Brasil', 'Panamá')",1,Brasil,Panamá
@@ -136,16 +166,18 @@ pais_par,num_relac_paises,pais1,pais2
 "('Brasil', 'Síria')",1,Brasil,Síria
 "('Brasil', 'Tonga')",2,Brasil,Tonga
 "('Brasil', 'Turquia')",4,Brasil,Turquia
+"('Brasil', 'Ucrânia')",5,Brasil,Ucrânia
 "('Brasil', 'Uruguai')",7,Brasil,Uruguai
 "('Brasil', 'Vanuatu')",1,Brasil,Vanuatu
 "('Brasil', 'Venezuela')",17,Brasil,Venezuela
 "('Brasil', 'Zâmbia')",1,Brasil,Zâmbia
 "('Brasil', 'África do Sul')",5,Brasil,África do Sul
-"('Brasil', 'Índia')",8,Brasil,Índia
+"('Brasil', 'Índia')",10,Brasil,Índia
 "('Brunei', 'Canadá')",1,Brunei,Canadá
 "('Brunei', 'Chile')",1,Brunei,Chile
 "('Brunei', 'Japão')",1,Brunei,Japão
 "('Brunei', 'México')",1,Brunei,México
+"('Bulgária', 'Chile')",1,Bulgária,Chile
 "('Bulgária', 'Grécia')",1,Bulgária,Grécia
 "('Burkina Faso', 'Canadá')",1,Burkina Faso,Canadá
 "('Burkina Faso', 'Gabão')",2,Burkina Faso,Gabão
@@ -153,18 +185,23 @@ pais_par,num_relac_paises,pais1,pais2
 "('Burundi', 'Gabão')",1,Burundi,Gabão
 "('Bélgica', 'França')",1,Bélgica,França
 "('Bélgica', 'Israel')",1,Bélgica,Israel
+"('Bósnia', 'Equador')",2,Bósnia,Equador
+"('Bósnia', 'Somália')",1,Bósnia,Somália
+"('Bósnia', 'Turquia')",1,Bósnia,Turquia
 "('Cabo Verde', 'Guiné')",1,Cabo Verde,Guiné
 "('Canadá', 'Chile')",3,Canadá,Chile
 "('Canadá', 'China')",1,Canadá,China
 "('Canadá', 'Costa Rica')",1,Canadá,Costa Rica
 "('Canadá', 'Equador')",1,Canadá,Equador
 "('Canadá', 'Estados Unidos')",23,Canadá,Estados Unidos
+"('Canadá', 'Finlândia')",1,Canadá,Finlândia
 "('Canadá', 'França')",1,Canadá,França
 "('Canadá', 'Gabão')",2,Canadá,Gabão
 "('Canadá', 'Islândia')",1,Canadá,Islândia
 "('Canadá', 'Japão')",3,Canadá,Japão
 "('Canadá', 'Marrocos')",1,Canadá,Marrocos
 "('Canadá', 'México')",8,Canadá,México
+"('Canadá', 'Nicarágua')",1,Canadá,Nicarágua
 "('Canadá', 'Paraguai')",1,Canadá,Paraguai
 "('Canadá', 'Peru')",1,Canadá,Peru
 "('Canadá', 'Índia')",9,Canadá,Índia
@@ -174,55 +211,75 @@ pais_par,num_relac_paises,pais1,pais2
 "('Chile', 'Estados Unidos')",3,Chile,Estados Unidos
 "('Chile', 'Japão')",2,Chile,Japão
 "('Chile', 'México')",1,Chile,México
+"('Chile', 'Nicarágua')",1,Chile,Nicarágua
 "('Chile', 'Paraguai')",1,Chile,Paraguai
-"('Chile', 'Peru')",11,Chile,Peru
+"('Chile', 'Peru')",15,Chile,Peru
 "('Chile', 'Taiwan')",1,Chile,Taiwan
 "('Chile', 'Uruguai')",1,Chile,Uruguai
 "('Chile', 'Venezuela')",1,Chile,Venezuela
-"('China', 'Colômbia')",1,China,Colômbia
+"('China', 'Colômbia')",2,China,Colômbia
+"('China', 'Coréia do Norte')",1,China,Coréia do Norte
 "('China', 'Egito')",1,China,Egito
 "('China', 'Estados Unidos')",33,China,Estados Unidos
 "('China', 'Filipinas')",3,China,Filipinas
 "('China', 'França')",3,China,França
 "('China', 'Indonésia')",1,China,Indonésia
-"('China', 'Irã')",2,China,Irã
+"('China', 'Irã')",5,China,Irã
 "('China', 'Israel')",2,China,Israel
 "('China', 'Itália')",2,China,Itália
 "('China', 'Japão')",7,China,Japão
 "('China', 'Kiribati')",1,China,Kiribati
 "('China', 'Maurício')",1,China,Maurício
+"('China', 'Mongólia')",4,China,Mongólia
 "('China', 'México')",1,China,México
 "('China', 'Palestina')",1,China,Palestina
 "('China', 'Paquistão')",3,China,Paquistão
 "('China', 'Paraguai')",4,China,Paraguai
 "('China', 'Peru')",1,China,Peru
 "('China', 'Portugal')",1,China,Portugal
-"('China', 'Rússia')",32,China,Rússia
+"('China', 'Rússia')",34,China,Rússia
 "('China', 'Taiwan')",4,China,Taiwan
 "('China', 'Turquia')",9,China,Turquia
+"('China', 'Ucrânia')",3,China,Ucrânia
 "('China', 'Uruguai')",1,China,Uruguai
 "('China', 'Vanuatu')",2,China,Vanuatu
 "('China', 'Venezuela')",2,China,Venezuela
 "('China', 'Zâmbia')",1,China,Zâmbia
 "('China', 'África do Sul')",2,China,África do Sul
-"('China', 'Índia')",14,China,Índia
-"('Colômbia', 'Equador')",2,Colômbia,Equador
-"('Colômbia', 'Estados Unidos')",2,Colômbia,Estados Unidos
+"('China', 'Índia')",30,China,Índia
+"('Colômbia', 'Egito')",1,Colômbia,Egito
+"('Colômbia', 'Equador')",3,Colômbia,Equador
+"('Colômbia', 'Estados Unidos')",3,Colômbia,Estados Unidos
+"('Colômbia', 'Indonésia')",1,Colômbia,Indonésia
+"('Colômbia', 'Irã')",1,Colômbia,Irã
 "('Colômbia', 'Jamaica')",1,Colômbia,Jamaica
-"('Colômbia', 'México')",3,Colômbia,México
-"('Colômbia', 'Panamá')",2,Colômbia,Panamá
-"('Colômbia', 'Peru')",3,Colômbia,Peru
-"('Colômbia', 'Venezuela')",6,Colômbia,Venezuela
+"('Colômbia', 'México')",6,Colômbia,México
+"('Colômbia', 'Panamá')",3,Colômbia,Panamá
+"('Colômbia', 'Peru')",4,Colômbia,Peru
+"('Colômbia', 'Turquia')",1,Colômbia,Turquia
+"('Colômbia', 'Venezuela')",11,Colômbia,Venezuela
+"('Colômbia', 'Zâmbia')",1,Colômbia,Zâmbia
+"('Colômbia', 'África do Sul')",1,Colômbia,África do Sul
+"('Coréia do Norte', 'Coréia do Sul')",1,Coréia do Norte,Coréia do Sul
+"('Coréia do Norte', 'Estados Unidos')",1,Coréia do Norte,Estados Unidos
+"('Coréia do Norte', 'Taiwan')",1,Coréia do Norte,Taiwan
+"('Coréia do Norte', 'Venezuela')",1,Coréia do Norte,Venezuela
+"('Coréia do Sul', 'Estados Unidos')",1,Coréia do Sul,Estados Unidos
+"('Coréia do Sul', 'Filipinas')",1,Coréia do Sul,Filipinas
+"('Coréia do Sul', 'Índia')",1,Coréia do Sul,Índia
 "('Costa Rica', 'Equador')",1,Costa Rica,Equador
 "('Costa Rica', 'Honduras')",1,Costa Rica,Honduras
+"('Costa Rica', 'Nicarágua')",4,Costa Rica,Nicarágua
 "('Costa Rica', 'Paraguai')",1,Costa Rica,Paraguai
 "('Costa Rica', 'Peru')",2,Costa Rica,Peru
 "('Cuba', 'Estados Unidos')",3,Cuba,Estados Unidos
 "('Cuba', 'Indonésia')",1,Cuba,Indonésia
 "('Cuba', 'Malásia')",1,Cuba,Malásia
 "('Cuba', 'México')",1,Cuba,México
+"('Cuba', 'Nicarágua')",1,Cuba,Nicarágua
 "('Cuba', 'Rússia')",2,Cuba,Rússia
 "('Cuba', 'Venezuela')",1,Cuba,Venezuela
+"('Dinamarca', 'Groenlândia')",2,Dinamarca,Groenlândia
 "('Dominica', 'Samoa')",1,Dominica,Samoa
 "('Egito', 'Etiópia')",7,Egito,Etiópia
 "('Egito', 'Indonésia')",1,Egito,Indonésia
@@ -232,56 +289,71 @@ pais_par,num_relac_paises,pais1,pais2
 "('Egito', 'Marrocos')",1,Egito,Marrocos
 "('Egito', 'México')",1,Egito,México
 "('Egito', 'Nepal')",1,Egito,Nepal
+"('Egito', 'Nigéria')",1,Egito,Nigéria
 "('Egito', 'Rússia')",1,Egito,Rússia
 "('Egito', 'Somália')",5,Egito,Somália
 "('Egito', 'Sudão')",2,Egito,Sudão
 "('Egito', 'Sudão do Sul')",1,Egito,Sudão do Sul
+"('Egito', 'Síria')",1,Egito,Síria
 "('Egito', 'Tunísia')",1,Egito,Tunísia
 "('Egito', 'Turquia')",5,Egito,Turquia
 "('Egito', 'Ucrânia')",1,Egito,Ucrânia
 "('Egito', 'Zâmbia')",1,Egito,Zâmbia
 "('Egito', 'África do Sul')",2,Egito,África do Sul
+"('Egito', 'Índia')",1,Egito,Índia
 "('El Salvador', 'Honduras')",1,El Salvador,Honduras
+"('El Salvador', 'Nicarágua')",1,El Salvador,Nicarágua
 "('El Salvador', 'Venezuela')",1,El Salvador,Venezuela
-"('Emirados Árabes Unidos', 'Estados Unidos')",1,Emirados Árabes Unidos,Estados Unidos
+"('Emirados Árabes Unidos', 'Estados Unidos')",2,Emirados Árabes Unidos,Estados Unidos
+"('Emirados Árabes Unidos', 'França')",1,Emirados Árabes Unidos,França
+"('Emirados Árabes Unidos', 'Irã')",2,Emirados Árabes Unidos,Irã
+"('Emirados Árabes Unidos', 'Israel')",1,Emirados Árabes Unidos,Israel
+"('Emirados Árabes Unidos', 'Líbano')",1,Emirados Árabes Unidos,Líbano
 "('Emirados Árabes Unidos', 'Rússia')",2,Emirados Árabes Unidos,Rússia
 "('Emirados Árabes Unidos', 'Sudão')",1,Emirados Árabes Unidos,Sudão
+"('Emirados Árabes Unidos', 'Turquia')",2,Emirados Árabes Unidos,Turquia
 "('Equador', 'Espanha')",1,Equador,Espanha
 "('Equador', 'Guiana')",1,Equador,Guiana
 "('Equador', 'Israel')",2,Equador,Israel
 "('Equador', 'México')",1,Equador,México
+"('Equador', 'Nicarágua')",1,Equador,Nicarágua
 "('Equador', 'Paraguai')",1,Equador,Paraguai
-"('Equador', 'Peru')",3,Equador,Peru
+"('Equador', 'Peru')",7,Equador,Peru
 "('Equador', 'Turquia')",1,Equador,Turquia
 "('Espanha', 'Estados Unidos')",3,Espanha,Estados Unidos
 "('Espanha', 'França')",2,Espanha,França
+"('Espanha', 'Grécia')",1,Espanha,Grécia
 "('Espanha', 'Itália')",1,Espanha,Itália
 "('Espanha', 'Marrocos')",1,Espanha,Marrocos
+"('Espanha', 'México')",1,Espanha,México
 "('Espanha', 'Portugal')",2,Espanha,Portugal
 "('Espanha', 'Singapura')",1,Espanha,Singapura
 "('Espanha', 'Uruguai')",1,Espanha,Uruguai
 "('Espanha', 'Venezuela')",3,Espanha,Venezuela
 "('Estados Unidos', 'Filipinas')",2,Estados Unidos,Filipinas
+"('Estados Unidos', 'Finlândia')",1,Estados Unidos,Finlândia
 "('Estados Unidos', 'França')",5,Estados Unidos,França
 "('Estados Unidos', 'Guatemala')",1,Estados Unidos,Guatemala
 "('Estados Unidos', 'Iraque')",2,Estados Unidos,Iraque
 "('Estados Unidos', 'Irlanda')",1,Estados Unidos,Irlanda
-"('Estados Unidos', 'Irã')",4,Estados Unidos,Irã
+"('Estados Unidos', 'Irã')",9,Estados Unidos,Irã
 "('Estados Unidos', 'Israel')",43,Estados Unidos,Israel
 "('Estados Unidos', 'Japão')",6,Estados Unidos,Japão
 "('Estados Unidos', 'Jordânia')",1,Estados Unidos,Jordânia
 "('Estados Unidos', 'Kiribati')",1,Estados Unidos,Kiribati
 "('Estados Unidos', 'Kosovo')",1,Estados Unidos,Kosovo
-"('Estados Unidos', 'Líbano')",1,Estados Unidos,Líbano
-"('Estados Unidos', 'México')",26,Estados Unidos,México
+"('Estados Unidos', 'Líbano')",3,Estados Unidos,Líbano
+"('Estados Unidos', 'Líbia')",1,Estados Unidos,Líbia
+"('Estados Unidos', 'México')",27,Estados Unidos,México
+"('Estados Unidos', 'Nicarágua')",2,Estados Unidos,Nicarágua
 "('Estados Unidos', 'Noruega')",1,Estados Unidos,Noruega
 "('Estados Unidos', 'Palestina')",2,Estados Unidos,Palestina
 "('Estados Unidos', 'Panamá')",1,Estados Unidos,Panamá
 "('Estados Unidos', 'Paraguai')",1,Estados Unidos,Paraguai
-"('Estados Unidos', 'Peru')",2,Estados Unidos,Peru
+"('Estados Unidos', 'Peru')",3,Estados Unidos,Peru
 "('Estados Unidos', 'Polônia')",3,Estados Unidos,Polônia
 "('Estados Unidos', 'Portugal')",1,Estados Unidos,Portugal
-"('Estados Unidos', 'Rússia')",11,Estados Unidos,Rússia
+"('Estados Unidos', 'Rússia')",12,Estados Unidos,Rússia
 "('Estados Unidos', 'Somália')",1,Estados Unidos,Somália
 "('Estados Unidos', 'Sudão')",2,Estados Unidos,Sudão
 "('Estados Unidos', 'Sudão do Sul')",1,Estados Unidos,Sudão do Sul
@@ -290,10 +362,10 @@ pais_par,num_relac_paises,pais1,pais2
 "('Estados Unidos', 'Tonga')",1,Estados Unidos,Tonga
 "('Estados Unidos', 'Turquia')",6,Estados Unidos,Turquia
 "('Estados Unidos', 'Tuvalu')",1,Estados Unidos,Tuvalu
-"('Estados Unidos', 'Ucrânia')",1,Estados Unidos,Ucrânia
+"('Estados Unidos', 'Ucrânia')",2,Estados Unidos,Ucrânia
 "('Estados Unidos', 'Venezuela')",9,Estados Unidos,Venezuela
 "('Estados Unidos', 'África do Sul')",1,Estados Unidos,África do Sul
-"('Estados Unidos', 'Índia')",3,Estados Unidos,Índia
+"('Estados Unidos', 'Índia')",5,Estados Unidos,Índia
 "('Estônia', 'República Democrática do Congo')",1,Estônia,República Democrática do Congo
 "('Etiópia', 'Irã')",1,Etiópia,Irã
 "('Etiópia', 'República Democrática do Congo')",1,Etiópia,República Democrática do Congo
@@ -302,14 +374,22 @@ pais_par,num_relac_paises,pais1,pais2
 "('Etiópia', 'Turquia')",2,Etiópia,Turquia
 "('Etiópia', 'Uganda')",1,Etiópia,Uganda
 "('Filipinas', 'Japão')",3,Filipinas,Japão
+"('Filipinas', 'Tailândia')",1,Filipinas,Tailândia
 "('Filipinas', 'Taiwan')",2,Filipinas,Taiwan
+"('Finlândia', 'Noruega')",1,Finlândia,Noruega
+"('Finlândia', 'Rússia')",6,Finlândia,Rússia
+"('Finlândia', 'Suécia')",1,Finlândia,Suécia
 "('França', 'Gabão')",1,França,Gabão
+"('França', 'Grécia')",1,França,Grécia
+"('França', 'Inglaterra')",1,França,Inglaterra
 "('França', 'Irlanda')",1,França,Irlanda
 "('França', 'Israel')",7,França,Israel
 "('França', 'Itália')",4,França,Itália
 "('França', 'Japão')",2,França,Japão
+"('França', 'Líbano')",3,França,Líbano
 "('França', 'Marrocos')",2,França,Marrocos
 "('França', 'México')",2,França,México
+"('França', 'Nigéria')",1,França,Nigéria
 "('França', 'Noruega')",1,França,Noruega
 "('França', 'Palestina')",3,França,Palestina
 "('França', 'Polônia')",3,França,Polônia
@@ -319,67 +399,84 @@ pais_par,num_relac_paises,pais1,pais2
 "('França', 'Suíça')",1,França,Suíça
 "('França', 'Turquia')",3,França,Turquia
 "('França', 'Índia')",2,França,Índia
+"('Grécia', 'Itália')",1,Grécia,Itália
+"('Grécia', 'Marrocos')",1,Grécia,Marrocos
+"('Grécia', 'Portugal')",1,Grécia,Portugal
+"('Grécia', 'Rússia')",1,Grécia,Rússia
 "('Guatemala', 'Honduras')",1,Guatemala,Honduras
+"('Guatemala', 'Nicarágua')",2,Guatemala,Nicarágua
 "('Guatemala', 'Panamá')",1,Guatemala,Panamá
 "('Guatemala', 'Paraguai')",1,Guatemala,Paraguai
+"('Guiana', 'Peru')",1,Guiana,Peru
 "('Guiana', 'Venezuela')",1,Guiana,Venezuela
-"('Guiné', 'Guiné-Bissau')",4,Guiné,Guiné-Bissau
+"('Guiné', 'Gâmbia')",1,Guiné,Gâmbia
 "('Guiné', 'Mali')",1,Guiné,Mali
 "('Guiné', 'Uganda')",1,Guiné,Uganda
+"('Gâmbia', 'Irã')",1,Gâmbia,Irã
+"('Gâmbia', 'Mali')",1,Gâmbia,Mali
+"('Honduras', 'Nicarágua')",1,Honduras,Nicarágua
 "('Hungria', 'Israel')",1,Hungria,Israel
 "('Indonésia', 'Israel')",1,Indonésia,Israel
 "('Indonésia', 'Japão')",1,Indonésia,Japão
 "('Indonésia', 'Malásia')",1,Indonésia,Malásia
 "('Indonésia', 'México')",1,Indonésia,México
 "('Indonésia', 'Nepal')",1,Indonésia,Nepal
+"('Indonésia', 'Nigéria')",1,Indonésia,Nigéria
+"('Indonésia', 'Nova Zelândia')",1,Indonésia,Nova Zelândia
 "('Indonésia', 'Rússia')",1,Indonésia,Rússia
 "('Indonésia', 'Turquia')",1,Indonésia,Turquia
 "('Indonésia', 'Zâmbia')",1,Indonésia,Zâmbia
 "('Indonésia', 'África do Sul')",1,Indonésia,África do Sul
 "('Indonésia', 'Índia')",1,Indonésia,Índia
-"('Iraque', 'Irã')",1,Iraque,Irã
+"('Iraque', 'Irã')",2,Iraque,Irã
 "('Iraque', 'Israel')",1,Iraque,Israel
 "('Iraque', 'Somália')",1,Iraque,Somália
-"('Iraque', 'Síria')",2,Iraque,Síria
+"('Iraque', 'Síria')",5,Iraque,Síria
 "('Iraque', 'Turquia')",1,Iraque,Turquia
 "('Irlanda', 'Israel')",2,Irlanda,Israel
 "('Irlanda', 'Itália')",2,Irlanda,Itália
 "('Irlanda', 'Japão')",1,Irlanda,Japão
-"('Irã', 'Israel')",20,Irã,Israel
+"('Irã', 'Israel')",23,Irã,Israel
+"('Irã', 'Líbano')",4,Irã,Líbano
 "('Irã', 'Paquistão')",1,Irã,Paquistão
-"('Irã', 'Rússia')",5,Irã,Rússia
+"('Irã', 'Rússia')",7,Irã,Rússia
 "('Irã', 'Sudão')",3,Irã,Sudão
-"('Irã', 'Síria')",3,Irã,Síria
-"('Irã', 'Turquia')",6,Irã,Turquia
+"('Irã', 'Síria')",4,Irã,Síria
+"('Irã', 'Turquia')",8,Irã,Turquia
 "('Irã', 'Venezuela')",1,Irã,Venezuela
 "('Irã', 'Índia')",3,Irã,Índia
 "('Israel', 'Itália')",1,Israel,Itália
 "('Israel', 'Japão')",1,Israel,Japão
-"('Israel', 'Jordânia')",1,Israel,Jordânia
-"('Israel', 'Líbano')",6,Israel,Líbano
+"('Israel', 'Jordânia')",2,Israel,Jordânia
+"('Israel', 'Líbano')",15,Israel,Líbano
 "('Israel', 'Mali')",1,Israel,Mali
 "('Israel', 'Palestina')",16,Israel,Palestina
 "('Israel', 'Portugal')",1,Israel,Portugal
-"('Israel', 'Rússia')",6,Israel,Rússia
-"('Israel', 'Síria')",9,Israel,Síria
+"('Israel', 'Rússia')",7,Israel,Rússia
+"('Israel', 'Síria')",11,Israel,Síria
 "('Israel', 'Turquia')",7,Israel,Turquia
-"('Israel', 'Ucrânia')",1,Israel,Ucrânia
+"('Israel', 'Ucrânia')",2,Israel,Ucrânia
 "('Israel', 'África do Sul')",2,Israel,África do Sul
+"('Israel', 'Índia')",1,Israel,Índia
 "('Itália', 'Japão')",1,Itália,Japão
+"('Itália', 'Líbia')",1,Itália,Líbia
 "('Itália', 'Marrocos')",1,Itália,Marrocos
 "('Itália', 'Noruega')",2,Itália,Noruega
 "('Itália', 'Polônia')",3,Itália,Polônia
 "('Itália', 'Portugal')",1,Itália,Portugal
 "('Itália', 'Rússia')",1,Itália,Rússia
 "('Itália', 'Suíça')",1,Itália,Suíça
+"('Itália', 'Ucrânia')",1,Itália,Ucrânia
+"('Itália', 'Áustria')",1,Itália,Áustria
 "('Itália', 'Índia')",1,Itália,Índia
 "('Jamaica', 'Panamá')",1,Jamaica,Panamá
 "('Japão', 'México')",2,Japão,México
 "('Japão', 'Peru')",1,Japão,Peru
 "('Japão', 'Rússia')",2,Japão,Rússia
 "('Japão', 'Taiwan')",1,Japão,Taiwan
-"('Japão', 'Índia')",2,Japão,Índia
-"('Jordânia', 'Palestina')",2,Jordânia,Palestina
+"('Japão', 'Índia')",6,Japão,Índia
+"('Jordânia', 'Líbano')",1,Jordânia,Líbano
+"('Jordânia', 'Palestina')",3,Jordânia,Palestina
 "('Kiribati', 'Kosovo')",1,Kiribati,Kosovo
 "('Kiribati', 'Palau')",1,Kiribati,Palau
 "('Kiribati', 'Sudão')",1,Kiribati,Sudão
@@ -392,11 +489,15 @@ pais_par,num_relac_paises,pais1,pais2
 "('Kosovo', 'Tuvalu')",1,Kosovo,Tuvalu
 "('Luxemburgo', 'Líbano')",1,Luxemburgo,Líbano
 "('Luxemburgo', 'Síria')",1,Luxemburgo,Síria
-"('Líbano', 'Síria')",1,Líbano,Síria
+"('Líbano', 'Paraguai')",1,Líbano,Paraguai
+"('Líbano', 'Síria')",6,Líbano,Síria
 "('Líbano', 'Turquia')",1,Líbano,Turquia
+"('Líbia', 'Nigéria')",1,Líbia,Nigéria
+"('Líbia', 'Síria')",1,Líbia,Síria
 "('Maldivas', 'Nepal')",1,Maldivas,Nepal
 "('Maldivas', 'Paquistão')",1,Maldivas,Paquistão
 "('Maldivas', 'Índia')",1,Maldivas,Índia
+"('Mali', 'Níger')",1,Mali,Níger
 "('Mali', 'Sudão')",1,Mali,Sudão
 "('Mali', 'Suécia')",1,Mali,Suécia
 "('Malásia', 'Suíça')",1,Malásia,Suíça
@@ -404,6 +505,9 @@ pais_par,num_relac_paises,pais1,pais2
 "('Marrocos', 'Portugal')",1,Marrocos,Portugal
 "('Marrocos', 'Senegal')",1,Marrocos,Senegal
 "('Maurício', 'Nepal')",2,Maurício,Nepal
+"('Micronésia', 'Vanuatu')",1,Micronésia,Vanuatu
+"('Mongólia', 'Rússia')",2,Mongólia,Rússia
+"('México', 'Nigéria')",1,México,Nigéria
 "('México', 'Noruega')",1,México,Noruega
 "('México', 'República do Congo')",1,México,República do Congo
 "('México', 'Turquia')",1,México,Turquia
@@ -411,7 +515,14 @@ pais_par,num_relac_paises,pais1,pais2
 "('México', 'Vanuatu')",1,México,Vanuatu
 "('México', 'Zâmbia')",1,México,Zâmbia
 "('México', 'África do Sul')",2,México,África do Sul
-"('Nepal', 'Índia')",1,Nepal,Índia
+"('Nepal', 'Índia')",3,Nepal,Índia
+"('Nicarágua', 'Paraguai')",1,Nicarágua,Paraguai
+"('Nicarágua', 'Peru')",1,Nicarágua,Peru
+"('Nicarágua', 'Turquia')",1,Nicarágua,Turquia
+"('Nicarágua', 'Venezuela')",6,Nicarágua,Venezuela
+"('Nigéria', 'República do Congo')",1,Nigéria,República do Congo
+"('Nigéria', 'Uganda')",1,Nigéria,Uganda
+"('Nigéria', 'África do Sul')",1,Nigéria,África do Sul
 "('Noruega', 'Polônia')",1,Noruega,Polônia
 "('Noruega', 'Rússia')",1,Noruega,Rússia
 "('Noruega', 'Suécia')",1,Noruega,Suécia
@@ -420,7 +531,7 @@ pais_par,num_relac_paises,pais1,pais2
 "('Palau', 'Sudão do Sul')",1,Palau,Sudão do Sul
 "('Palau', 'Tuvalu')",1,Palau,Tuvalu
 "('Palestina', 'Turquia')",2,Palestina,Turquia
-"('Palestina', 'Ucrânia')",2,Palestina,Ucrânia
+"('Palestina', 'Ucrânia')",3,Palestina,Ucrânia
 "('Palestina', 'Uruguai')",2,Palestina,Uruguai
 "('Palestina', 'Venezuela')",1,Palestina,Venezuela
 "('Panamá', 'Paraguai')",1,Panamá,Paraguai
@@ -428,40 +539,49 @@ pais_par,num_relac_paises,pais1,pais2
 "('Panamá', 'Venezuela')",1,Panamá,Venezuela
 "('Paquistão', 'Síria')",1,Paquistão,Síria
 "('Paquistão', 'Turquia')",1,Paquistão,Turquia
-"('Paquistão', 'Índia')",8,Paquistão,Índia
+"('Paquistão', 'Índia')",11,Paquistão,Índia
 "('Paraguai', 'Peru')",1,Paraguai,Peru
 "('Paraguai', 'Taiwan')",1,Paraguai,Taiwan
 "('Paraguai', 'Tonga')",1,Paraguai,Tonga
 "('Paraguai', 'Tuvalu')",1,Paraguai,Tuvalu
 "('Paraguai', 'Uruguai')",4,Paraguai,Uruguai
+"('Peru', 'Singapura')",1,Peru,Singapura
 "('Peru', 'Uruguai')",1,Peru,Uruguai
 "('Peru', 'Venezuela')",4,Peru,Venezuela
 "('Polônia', 'Romênia')",1,Polônia,Romênia
 "('Polônia', 'Suécia')",1,Polônia,Suécia
 "('Polônia', 'Suíça')",1,Polônia,Suíça
+"('Polônia', 'Áustria')",2,Polônia,Áustria
 "('Portugal', 'Índia')",1,Portugal,Índia
 "('República Democrática do Congo', 'Uganda')",2,República Democrática do Congo,Uganda
 "('Romênia', 'Rússia')",2,Romênia,Rússia
 "('Rússia', 'Suécia')",1,Rússia,Suécia
 "('Rússia', 'Síria')",10,Rússia,Síria
-"('Rússia', 'Turquia')",11,Rússia,Turquia
-"('Rússia', 'Ucrânia')",2,Rússia,Ucrânia
+"('Rússia', 'Turquia')",12,Rússia,Turquia
+"('Rússia', 'Ucrânia')",13,Rússia,Ucrânia
 "('Rússia', 'Venezuela')",4,Rússia,Venezuela
-"('Rússia', 'Índia')",6,Rússia,Índia
+"('Rússia', 'Áustria')",1,Rússia,Áustria
+"('Rússia', 'Índia')",9,Rússia,Índia
+"('Singapura', 'Tailândia')",1,Singapura,Tailândia
+"('Singapura', 'Timor Leste')",1,Singapura,Timor Leste
+"('Somália', 'Síria')",1,Somália,Síria
 "('Somália', 'Turquia')",1,Somália,Turquia
 "('Sudão', 'Sudão do Sul')",10,Sudão,Sudão do Sul
 "('Sudão', 'Tuvalu')",1,Sudão,Tuvalu
 "('Sudão do Sul', 'Tuvalu')",1,Sudão do Sul,Tuvalu
-"('Síria', 'Turquia')",6,Síria,Turquia
+"('Síria', 'Turquia')",7,Síria,Turquia
 "('Taiwan', 'África do Sul')",1,Taiwan,África do Sul
 "('Tanzânia', 'Uganda')",1,Tanzânia,Uganda
+"('Timor Leste', 'Turquia')",1,Timor Leste,Turquia
 "('Tonga', 'Tuvalu')",1,Tonga,Tuvalu
 "('Tunísia', 'Turquia')",1,Tunísia,Turquia
 "('Turquia', 'Ucrânia')",1,Turquia,Ucrânia
 "('Turquia', 'Zâmbia')",1,Turquia,Zâmbia
 "('Turquia', 'África do Sul')",1,Turquia,África do Sul
-"('Turquia', 'Índia')",3,Turquia,Índia
+"('Turquia', 'Áustria')",1,Turquia,Áustria
+"('Turquia', 'Índia')",4,Turquia,Índia
 "('Ucrânia', 'Venezuela')",1,Ucrânia,Venezuela
 "('Uruguai', 'Venezuela')",4,Uruguai,Venezuela
 "('Zâmbia', 'África do Sul')",1,Zâmbia,África do Sul
 "('África do Sul', 'Índia')",1,África do Sul,Índia
+"('Áustria', 'Índia')",1,Áustria,Índia

@@ -22,7 +22,7 @@ Belize
 Benin
 Mianmar
 Bolívia
-Bósnia e Herzegovina
+Bósnia
 Botsuana
 Brasil
 Brunei
@@ -40,6 +40,8 @@ China
 Chipre
 Colômbia
 Comores
+Coréia do Sul
+Coréia do Norte
 República do Congo
 Costa Rica
 Croácia
@@ -73,10 +75,11 @@ Guadalupe
 Guatemala
 Guiana
 Guiné
-Guiné-Bissau
+Guiné Bissau
 Haiti
 Honduras
 Hungria
+Holanda
 Iémen
 Ilhas Cook
 Ilhas Malvinas
@@ -87,6 +90,7 @@ Iraque
 Irlanda
 Islândia
 Israel
+Inglaterra
 Itália
 Jamaica
 Japão
@@ -102,6 +106,7 @@ Letônia
 Libéria
 Líbano
 Libéria
+Líbia
 Lituânia
 Luxemburgo
 Macedônia do Norte
@@ -133,13 +138,13 @@ Omã
 Paquistão
 Palau
 Panamá
-Papua-Nova Guiné
+Papua Nova Guiné
 Paraguai
 Peru
 Polônia
 Portugal
 Quirguistão
-República Centro-Africana
+República Centro Africana
 República Tcheca
 República Democrática do Congo
 Romênia
@@ -166,7 +171,7 @@ Suíça
 Sri Lanka
 Tajiquistão
 Tanzânia
-Timor-Leste
+Timor Leste
 Togo
 Tonga
 Trinidad e Tobago
@@ -190,4 +195,7 @@ Taiwan
 Sahara Ocidental
 Kosovo
 Ilhas Cook
+Tailândia
+Camboja
+Groenlândia
 Liechtenstein
